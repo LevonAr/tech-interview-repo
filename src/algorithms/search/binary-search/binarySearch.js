@@ -1,8 +1,9 @@
-/**
- * @param {number[]} nums
- * @param {number} target
- * @return {number}
- */
+// Created: 5/9/21
+// To Solve: Leetcode 35: Insert Search Position
+
+//@param {number[]} nums
+//@param {number} target
+//@return {number}
 function searchInsert(nums, target) {
   let startIndex = 0;
   let endIndex = nums.length - 1;
