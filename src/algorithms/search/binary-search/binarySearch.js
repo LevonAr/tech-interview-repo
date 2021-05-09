@@ -1,5 +1,5 @@
 // Created: 5/9/21
-// To Solve: Leetcode 35: Insert Search Position
+// To Solve: Leetcode 35: Search Insert Position
 
 //@param {number[]} nums
 //@param {number} target
