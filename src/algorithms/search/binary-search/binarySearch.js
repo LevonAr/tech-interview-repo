@@ -4,7 +4,7 @@
 //@param {number[]} nums
 //@param {number} target
 //@return {number}
-function searchInsert(nums, target) {
+function binarySearch(nums, target) {
   let startIndex = 0;
   let endIndex = nums.length - 1;
 
