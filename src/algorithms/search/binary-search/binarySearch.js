@@ -25,6 +25,5 @@ function binarySearch(nums, target) {
       endIndex = middleIndex - 1;
     }
   }
-
   return -1;
 }
